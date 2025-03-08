@@ -2,9 +2,11 @@
 1. Introduction:-
 
 Indian Sign Language (ISL) is a form of communication used by the deaf and hard-of-hearing community in India. This project aims to develop a deep learning model that can recognize and classify different ISL hand gestures using image processing and Convolutional Neural Networks (CNNs).
+
 2. Objective:-
 
 The primary goal of this project is to build a machine learning model that accurately predicts ISL signs based on image inputs. This can be used to enhance communication for individuals with hearing and speech impairments.
+
 3. Dataset Description:-
 
 •	The dataset consists of labelled images of different hand gestures representing ISL signs.
